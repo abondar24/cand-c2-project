@@ -1,2 +1,7 @@
 Excercise_1/.terraform
+Excercise_1/terraform.tfstate
+Excercise_1/terraform.tfstate.backup
+
 Excercise_2/.terraform
+Excercise_2/terraform.tfstate
+Excercise_2/terraform.tfstate.backup
